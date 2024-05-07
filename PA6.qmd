@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Rachel, Emily, Drew, and Alex"
 format: html
 editor: visual
 embedded-resources: true
