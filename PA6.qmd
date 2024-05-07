@@ -1,10 +1,6 @@
 ---
 title: "Practice Activity 6"
-<<<<<<< HEAD
-author: "Rachel, Emily, Drew, and Alex"
-=======
 author: "Rachel Gluck, Emily Zhu, Drew Clanton, and Alex Buntaran"
->>>>>>> a8a1e54cce8562f6ff42a8e8d218b4b2ecfad24e
 format: html
 editor: visual
 embedded-resources: true
