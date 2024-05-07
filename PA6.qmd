@@ -1,6 +1,6 @@
 ---
 title: "Practice Activity 6"
-author: "Rachel, Emily, Drew, and Alex"
+author: "Rachel Gluck, Emily Zhu, Drew Clanton, and Alex Buntaran"
 format: html
 editor: visual
 embedded-resources: true
